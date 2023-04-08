@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Heads or Tails Game</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <div class="container">
+    <h1>Heads or Tails Game</h1>
+    <div class="choice-container">
+      <button id="heads" onclick="select('heads')">Heads</button>
+      <button id="tails" onclick="select('tails')">Tails</button>
+    </div>
+    <button id="play-btn" onclick="play()">PLAY</button>
+    <div id="result"></div>
+
+    <p>Wins: <span id="win-count">0</span></p>
+    <p>Loses: <span id="lose-count">0</span></p>  
+  </div>
+  
+  <script src="script.js"></script>
+  
+</body>
+
+
+
+</html>
