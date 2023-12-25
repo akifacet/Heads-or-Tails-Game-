@@ -1,11 +1,6 @@
-# Heads-or-Tails-Game-
-This game was developed using HTML, CSS, and JavaScript programming languages to create an interactive and user-friendly experience.
+The Heads or Tails game is designed using HTML, CSS, and JavaScript to offer a classic and straightforward user experience. In this game, players make predictions about the outcome of a coin toss. The element of luck is the key factor, making it a quick and enjoyable activity.
 
-Heads or Tails game is a classic and simple game that has been enjoyed by people of all ages for centuries. In this game, the player has to predict whether the coin will land on Heads or Tails after being flipped in the air. The game is based purely on luck and chance, making it an exciting and unpredictable experience.
-
-In the modern era, this game has been brought to life through the use of JavaScript. The game is easy to play and can be enjoyed by anyone with a basic understanding of how to use a computer. The game prompts the player to make their guess and then reveals the result through an alert message.
-
-If the player guesses correctly, they are congratulated for their success. However, if they fail to guess correctly, the game will display a message saying "You lost".
-
-Overall, this game is an enjoyable and entertaining way to pass the time. It's a simple yet classic game that can be played over and over again, making it perfect for those who want to have some fun without the need for complex rules or strategy.
-If you see the "you forgot to make a selection" alert, please choose either Heads or Tails options. This error can also occur if you accidentally press certain keys on your keyboard. Please use your mouse to make your selections and then click the play button.
+When players make correct predictions, they receive congratulatory messages, adding a positive touch to the game. Conversely, if their guess is incorrect, they are notified with a simple "You lost" message. The game's simplicity and timeless appeal make it perfect for casual and repetitive entertainment. It's an easy and fun way to pass the time.
+![SS-1](https://github.com/akifacet/Heads-or-Tails-Game-/assets/112588097/f6257ac7-a9c2-4fbd-8904-fcfdcc492bcb)
+![SS-2](https://github.com/akifacet/Heads-or-Tails-Game-/assets/112588097/43732984-891f-4630-89ae-829c4b63d55c)
+![SS- 3](https://github.com/akifacet/Heads-or-Tails-Game-/assets/112588097/e86aadd6-fc3c-471c-960d-d66bb97791b7)
